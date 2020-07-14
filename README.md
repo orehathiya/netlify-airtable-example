@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirement
+`npm i netlify-cli -g`
+
+## How to run
+1. `netlify init`
+2. configure environment variable
+3. `netlify dev`
+4. access http://localhost:8888/.netlify/functions/functionName/functionName.js
+
+then you can see aritable response.
+
 ## Available Scripts
 
 In the project directory, you can run:
